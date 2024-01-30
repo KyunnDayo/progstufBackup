@@ -1,9 +1,3 @@
-ADR_Technical Assessment 3 (Recursions) Cpp_CLI_Calculator
+Backup Repository for Desktop folder "progstuff"
 
-Group Members:
-
-Atienza, Fred Dominic P.
-Duzon, Oliver Gadwin A.
-Romero, Justine R.
-
-AN31- Programming tools and Techniques
+backup date: 013024
